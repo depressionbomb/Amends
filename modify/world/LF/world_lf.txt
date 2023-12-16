@@ -1,0 +1,51 @@
+[FINDLINESTART]LF_F02 :
+[REPLACE]LF_F02 : LF_Bridge01, LF_A07, LF_A04, LF_A06
+
+[MERGE]
+
+CONDITIONAL LINKS
+
+Red, Artificer, Spear : LF_F02 : LF_Bridge01 : LF_Bridge01_PAST
+Red, Artificer, Spear : LF_Bridge01 : LF_F02 : DISCONNECTED
+Red, Artificer, Spear : LF_Bridge01_PAST : DISCONNECTED : LF_F02
+Red, Artificer, Spear : LF_H01 : LF_A15 : LF_A15_PAST
+Red, Artificer, Spear : LF_A15 : LF_H01 : DISCONNECTED
+Red, Artificer, Spear : LF_S06 : LF_A15 : LF_A15_PAST
+Red, Artificer, Spear : LF_A15 : LF_S06 : DISCONNECTED
+
+//only available pre-collapse
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_Bridge01_PAST
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_Bridge02
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_Bridge03
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_S07
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_A15_PAST
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_Pillar01
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_SPagoda
+Red, Artificer, Spear : EXCLUSIVEROOM : LF_OverpassOutpost
+
+//Unavailable when pre-collapse
+Red, Artificer, Spear : HIDEROOM : LF_Bridge01
+Red, Artificer, Spear : HIDEROOM : LF_A15
+
+END CONDITIONAL LINKS
+
+ROOMS
+LF_F02 : LF_Bridge01, LF_A07, LF_A04, LF_A06
+LF_A15_PAST : LF_H01, LF_Pillar01, LF_S06
+LF_Bridge01 : LF_F02 
+LF_Bridge01_PAST : LF_Bridge02, DISCONNECTED
+LF_Bridge02 : LF_Bridge03, LF_Bridge01_PAST
+LF_Bridge03 : LF_Pillar01, LF_Bridge02
+LF_Pillar01 : LF_SPagoda, LF_OverpassOutpost, DISCONNECTED, LF_Bridge03, LF_A15_PAST
+LF_OverpassOutpost: LF_Pillar01 : SCAVTRADER
+LF_S07 : DISCONNECTED : SHELTER
+LF_SPagoda : LF_Pillar01 : SHELTER
+
+END ROOMS
+
+CREATURES
+(Red, Artificer, Spear) LF_Bridge01_PAST : 1-Pink, 2-Cyan, 3-Blue, 4-Blue
+(Red, Artificer, Spear) LF_Bridge02 : 1-Blue, 3-Pink, 4-Blue, 6-White
+(X-Saint, Red, Artificer, Spear) LF_Bridge01 : 1-Pink, 2-Blue
+(Saint) LF_Bridge01 : 1-ZoopLizard
+[ENDMERGE]

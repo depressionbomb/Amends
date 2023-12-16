@@ -1,0 +1,18 @@
+{
+  "Title": "Amends",
+  "Description": "[h1][b]To get a second chance, to heal from the present or the past. Amends aims to add two new unique alternative endings for both Artificer and Hunter\u0027s campaigns, to give them a true happy ending.[/b][/h1]\r\n\r\nThis page is currently reserved for playtesters\r\n\r\nVersion 0.02d (Fixed)",
+  "ID": "AncientGardens",
+  "Version": "0.02d",
+  "TargetGameVersion": "v1.9.06",
+  "Requirements": "crs, regionkit",
+  "RequirementNames": "Custom Regions Support, RegionKit",
+  "Authors": "Depressionbomb",
+  "Visibility": "Unlisted",
+  "Tags": [
+    "Regions",
+    "Campaigns"
+  ],
+  "WorkshopID": 3081143088,
+  "UploadFilesOnly": false,
+  "UploadThumbnail": false
+}

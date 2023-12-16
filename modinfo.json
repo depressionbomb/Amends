@@ -1,0 +1,12 @@
+{
+  "id": "AncientGardens",
+  "name": "Amends",
+  "version": "0.02d",
+  "authors": "Depressionbomb",
+  "description": "To get a second chance, to heal from the present or the past. Amends aims to add two new unique alternative endings for both Artificer and Hunter's campaigns, to give them a true happy ending.",
+  "requirements": ["regionkit", "crs", "moreslugcats"],
+  "requirements_names": ["RegionKit", "Custom Regions Support", "More Slugcats Expansion"],
+  "tags": ["Regions", "Campaigns"],
+  "checksum_override_version": false,
+  "priorities": ["moreslugcats"]
+}

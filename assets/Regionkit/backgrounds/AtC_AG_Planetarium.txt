@@ -1,0 +1,12 @@
+Parent: AtC_OE_treetopview
+PROTECTED
+---------------
+cloudsStartDepth: 3
+
+REMOVE_DistantBuilding: AtC_LocalSpire, 725, -610, 25, -10
+REMOVE_DistantBuilding: AtC_LocalSpire_Lights, 725, -610, 25, -10
+REMOVE_DistantBuilding: AtC_RetainingWall, 1010, -530, 25, -9
+REMOVE_DistantBuilding: AtC_FivePebbles, 70, -370, 400, -100
+DistantBuilding: AtC_FivePebbles, 70, -370, 200, -100
+REMOVE_DistantLightning: AtC_FivePebblesLight, 70, -330, 30, 370
+DistantLightning: AtC_FivePebblesLight, 70, -340, 15, 370
