@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.2065217
+Palette: 433
+EffectColorA: 21
+EffectColorB: 18
+Effects: AboveCloudsView-1-20-20, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><58.06598><195.9217><0.1086956><0.7065217, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>ag_01-interlude<eA>vol<eB>0.3<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1077.425<tB>511.0965<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>480.4252<tB>1876.097<tA>handlePos<tB>-35.35534<tB>-35.35534, 
+BackgroundOffset: 0,750
+BackgroundType: atc_ag_planetarium

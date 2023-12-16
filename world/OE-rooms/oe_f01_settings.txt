@@ -1,0 +1,13 @@
+CeilingDrips: 0.5543478
+Clouds: 1
+Grime: 0.2173913
+BkgDroneNoThreatVolume: 1
+Palette: 14
+EffectColorA: 21
+EffectColorB: 21
+Effects: SunBlock-0-309-86, Darkness-0.5-313-22, LightRain-0.5543478-20-20, Fog-0.3586957-13-102, FireFlies-0.25-22-70, DayNight-0-336-144, 
+PlacedObjects: ReliableSpear><2300.69><796.6907><, GooieDuck><1992.088><504.5705><0~0~2~3, GooieDuck><2046.668><595.6824><0~0~2~3, GooieDuck><2052.334><488.0687><0~0~2~3, LanternOnStick><1024.288><216.1963><-26~-114, LanternOnStick><1933.431><402.0856><15~-128, LanternOnStick><2122.413><1036.366><-25~-75, 
+AmbientSounds: OMNI><tm_metalgroans.ogg><94.12427><467.1567><0.25><1, 
+FadePalette: 435, 0.8043478, 0.6086956, 0.4021739, 0.2065217
+BackgroundOffset: 0,400
+BackgroundType: atc_default_msc

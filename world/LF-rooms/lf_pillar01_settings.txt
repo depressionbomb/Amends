@@ -1,0 +1,8 @@
+Template: LF_SettingsTemplate_Bridge
+DangerType: FloodAndRain
+Clouds: 0.3586957
+Grime: 0.2065217
+Effects: SkyBloom-1-266-76, SkyAndLightBloom-1-266-26, 
+PlacedObjects: ExitSymbolHidden><224.3026><2092.781><, ExitSymbolShelter><732.1999><2093.258><, ReliableSpear><584.1248><1054.094><, HangingPearls><-315.0715><2053.41><, HangingPearls><349.96><2080.696><, HangingPearls><389.8946><2057.612><, CustomDecal><232.4816><2031.051><-88~0~-87~117~1~117~282~-95~0~1~0~lc_entrymarkse~1~0~1~0~1~0~1~0, 
+BackgroundOffset: 0,434.7825
+BackgroundType: atc_default_msc

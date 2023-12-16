@@ -1,0 +1,10 @@
+Template: LF_SettingsTemplate_Bridge
+DangerType: Rain
+Grime: 0.1630435
+BkgDroneNoThreatVolume: 0
+EffectColorA: 18
+EffectColorB: 18
+Effects: Brightness-0-45-101, Darkness-0.2065217-317-21, AboveCloudsView-1-30-69, 
+PlacedObjects: ShelterBhvrManager><218.8815><356.1507><-270~34~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><370.1057><78.88843><0^1, ShelterBhvrNoTriggerZone><309.5502><69.00983><339~120, ShelterBhvrSpawnPosition><403.0656><259.3273><, ShelterBhvrSpawnPosition><568.4078><304.1775><, ShelterBhvrSpawnPosition><395.696><342.9603><, 
+BackgroundOffset: 0,265.2174
+BackgroundType: atc_si_vanilla

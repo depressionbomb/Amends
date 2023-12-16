@@ -1,0 +1,3 @@
+Template: LF_SettingsTemplate_Bridge
+Effects: Darkness-0.3913043-11-97, SkyAndLightBloom-1-295-101, LightBurn-1-296-44, 
+PlacedObjects: TradeOutpost><443.6104><85.89325><-5~133, ScavengerTreasury><396.6472><92.9518><0~255, 

@@ -1,0 +1,15 @@
+Template: LF_SettingsTemplate_Bridge
+DangerType: None
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.0490876
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5
+Palette: 434
+PlacedObjects: LanternOnStick><4383.497><242.5556><-27.0354~-156, Mushroom><4761.422><111.9307><-865.8448~141.8431~2~3, Mushroom><4734.986><121.7273><-839.5208~43.37779~2~3, Mushroom><4754.513><110.0496><-860.1531~-31.28888~2~3, 
+AmbientSounds: SPOT><am_win-nicewnd.ogg><732.4995><486.7632><0.5><0.7076837><1927.918><486.1409><1312.147><0.911377><0><0.1618659, 
+FadePalette: 0, 0, 0, 0, 0, 0
+MorePalette0: 23, 0, 0, 0, 0, 0.750124

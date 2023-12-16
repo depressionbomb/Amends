@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Palette: 433
+EffectColorA: 4
+EffectColorB: 8
+Effects: DayNight-0.6086956-20-74, TinyDragonFly-1-20-20, WaterGlowworm-1-16-128, RockFlea-1-277-22, AboveCloudsView-1-255-121, MossWater-0-275-70, ReplaceEffectColorA-0-722-348-Color-0-0-0, 
+PlacedObjects: Vine><704.1237><217.905><322~196, WaterNut><288.5124><172.3004><-353~89~2~3, WaterNut><310.0973><168.1209><-482~172~2~3, WaterNut><278.075><195.0967><-428~-14~2~3, FlyLure><614.423><212.3503><0~0~4~9, OEsphere><1231.15><592.8675><0~100~50~86.60254~17~0.7065217, LightSource><1208.64><333.1072><1~EffectColor1~0~165~50~86.60254~1~0~None~0.4021739~0, Vine><1751.194><231.7003><379~164, 
+AmbientSounds: SPOT><so_ind-flourlight.ogg><710.948><415.0284><0.5><1><1209.948><326.0284><-1.355347><-69.35535><0><0.1326088, 
+BackgroundOffset: 1847.826,978.2606
+BackgroundType: atc_oe_treetopview

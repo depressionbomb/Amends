@@ -1,0 +1,13 @@
+DangerType: Rain
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04162527
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.7525363
+Palette: 4
+EffectColorB: 19
+Effects: Fog-0.5-42-108, Coldness-0.4021739-296-45, 
+PlacedObjects: DangleFruit><1574.319><536.1876><175~4~2~3, DangleFruit><1600.574><500.4358><149~-43~2~3, DangleFruit><1629.066><514.6887><119~-136~2~3, SeedCob><1311.199><478.9861><-131.002~58~7~10, DeadSeedCob><1357.45><439.4884><, 
+AmbientSounds: SPOT><noise wind.wav><718.9458><563.3075><0.5><1><100.9458><541.3075><1107.751><-32.35535><0><0.2266759, SPOT><am_win-howlingwnd.ogg><743.4575><517.248><0.7397308><1.125279><100.3732><541.5147><636.9728><10.15576><0><0.2082652, 
+FadePalette: 12, 0.3043478, 0

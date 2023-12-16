@@ -1,0 +1,2 @@
+Effects: Darkness-0.2608696-170-73, 
+PlacedObjects: ExitSymbolShelter><150.8863><161.6464><, PuffBall><319.6744><189.9352><0~0~2~3, PuffBall><410.5182><149.8008><0~0~2~3, PuffBall><338.4049><160.8241><0~0~2~3, 

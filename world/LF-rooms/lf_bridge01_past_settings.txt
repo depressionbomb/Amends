@@ -1,0 +1,10 @@
+Template: LF_SettingsTemplate_Bridge
+DangerType: Rain
+WaveSpeed: 0.4994237
+WaveLength: 0.9997119
+WaveAmplitude: 0.04294681
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 434
+FadePalette: 0, 0, 0, 0, 0, 0
+WetTerrain: OFF

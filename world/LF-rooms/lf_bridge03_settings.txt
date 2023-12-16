@@ -1,0 +1,7 @@
+Template: LF_SettingsTemplate_Bridge
+WaveSpeed: 0.4966636
+WaveLength: 0.9983318
+WaveAmplitude: 0.04916664
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+PlacedObjects: GoldToken><2541.963><683.1965><-65~-43~237.1086~-146.1511~0~Default~~0~0~0~0~0~0~0~0, DeadTokenStalk><2423.278><698.198><38~-55, DeadTokenStalk><2541.669><683.3571><-65~-43, SeedCob><501.0859><447.6806><0~0~7~10, SeedCob><465.4649><436.5531><0~0~7~10, DeadSeedCob><534.051><416.0197><, KarmaFlower><2482.542><393.028><245.0103~-197.8931~5~7, DeadSeedCob><4613.519><440.4492><, DangleFruit><4710.769><551.8008><0~0~2~3, DangleFruit><4784.917><512.1107><0~0~2~3, DangleFruit><4846.079><535.6015><0~0~2~3, 

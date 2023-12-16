@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 1
+Grime: 0.6521739
+Palette: 435
+Effects: Darkness-0.8043478-20-20, 
+PlacedObjects: LightBeam><266.8546><2248.081><165~364~240~364~395~0~-448~62~0.8891303~0.5108696~0~0~None~0~0, PlacedWaterfall><371.848><2658.175><100~50~4~1, PlacedWaterfall><560.31><2653.188><100~50~4~1, 
+FadePalette: 0, 0, 0, 0, 0

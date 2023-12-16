@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: FloodAndRain
+Palette: 435
+EffectColorA: 0
+EffectColorB: 8
+Effects: Darkness-0.7826087-362-84, Fog-1-362-32, LightRain-0.3586957-111-84, 
+PlacedObjects: CGGateCustomization><482.9871><607.5504><500.0001~-270~False~False~True~False~-64, CommonGateData><489.2319><224.1991><319~-68~False~False~False~False~False~False~False~True~0.173913~0.423913~0.7173913, NoSpearStickZone><489.2692><224.1991><-194~0, 
+BackgroundOffset: 0,434.7825
+BackgroundType: atc_default_msc

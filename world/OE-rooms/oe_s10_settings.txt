@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 14
+EffectColorA: 9
+Effects: Darkness-0.4673913-1008-450, Contrast-0-350-114, LightBurn-0-905-364, Bloom-0-1045-258, SkyAndLightBloom-0.3913043-1095-538, Brightness-0-1084-147, SunBlock-0-0-0, 
+PlacedObjects: ShelterBhvrPlacedDoor><41.80151><124.5249><1^0, ExitSymbolShelter><883.8438><133.1254><, ShelterBhvrNoTriggerZone><40.31274><26.57013><110~186, ShelterBhvrNoTriggerZone><793.8915><35.64139><122~178, ShelterBhvrPlacedDoor><911.1382><128.8554><-1^0, ShelterBhvrManager><-73.87033><263.6523><-91~29~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><312.5932><157.0731><, ShelterBhvrSpawnPosition><657.1575><128.3767><, ShelterBhvrSpawnPosition><455.1284><93.15335><, 
